@@ -1,8 +1,3 @@
-client
-
-- react
-- apollo client
-
 server
 
 - nodejs
